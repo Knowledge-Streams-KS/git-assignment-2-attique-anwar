@@ -1,8 +1,9 @@
-import Modulus
+import SquareRoot
 
 a = int (input ("Input first number: "))
 b= int (input ("Input second number: "))
 
-c=Modulus.Modulus(a,b)
+c= SquareRoot.SquareRoot(a)
 
 print(c)
+
