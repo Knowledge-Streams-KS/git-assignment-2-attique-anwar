@@ -1,4 +1,4 @@
-<!-- Following files should be made: -->
+Following files should be made:
 
 
 ATTIQUE -->
